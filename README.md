@@ -1,7 +1,7 @@
 # Youtube-channel-Insights
-Youtube channel Insights
 
-*1. Aims, objectives and background*
+
+**1. Aims, objectives and background**
    
 **1.1. Introduction**
 
