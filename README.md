@@ -32,7 +32,7 @@ Within this project, I would like to explore the following:
 4. Conclusions
 
 
-# Conclusions and future research ideas
+# Conclusions and project limitations
 In this project, we have explored the video data of the 5 most popular Data science/ Data analyst channels and revealed many interesting findings for anyone who are starting out with a Youtube channel in data science or another topic:
 - The more likes and comments a video has, the more views the video gets (it is not guaranteed that this is a causal relationship, it is simply a correlation and can work both way). Likes seem to be a better indicator for interaction than comments and the number of likes seem to follow the "social proof", which means the more views the video has, the more people will like it.
 - Most videos have between 0 and 20 tags.
