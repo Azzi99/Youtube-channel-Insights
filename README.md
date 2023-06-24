@@ -30,3 +30,20 @@ Within this project, I would like to explore the following:
 2. Prepocess data and engineer additional features for analysis
 3. Exploratory data analysis
 4. Conclusions
+
+
+# Conclusions and future research ideas
+In this project, we have explored the video data of the 5 most popular Data science/ Data analyst channels and revealed many interesting findings for anyone who are starting out with a Youtube channel in data science or another topic:
+
+- The more likes and comments a video has, the more views the video gets (it is not guaranteed that this is a causal relationship, it is simply a correlation and can work both way). Likes seem to be a better indicator for interaction than comments and the number of likes seem to follow the "social proof", which means the more views the video has, the more people will like it.
+- Most videos have between 0 and 20 tags.
+- Most-viewed videos tend to have average title length of 30-70 characters. Too short or too long titles seem to harm viewership.
+- Videos are usually uploaded on Sundays and Wednesdays. Regular day and monday in particular is not a popular time for posting new videos.
+- Comments on videos are generally positive, we noticed a lot "please" words, suggesting potential market gaps in content that could be filled.
+- 
+**Project limitation:**
+
+The findings should also be taken with a grain of salt for a number of reasons:
+- The number of videos is quite small (the dataset has only ~2,077 videos)
+- I have only considered the first 10 comments on each video, which might not be representative for all comments
+- There are many other factors that haven't been taken into the analysis, including the marketing strategy of the creators and many random effects that would affect how successful a video is
